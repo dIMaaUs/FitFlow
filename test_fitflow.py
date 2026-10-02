@@ -1,5 +1,6 @@
 import unittest
-from fitflow_logic import Exercise, WorkoutSession, UserProfile
+from workout_manager import Exercise, WorkoutSession
+from user_manager import UserProfile
 
 
 class TestFitFlowLogic(unittest.TestCase):
